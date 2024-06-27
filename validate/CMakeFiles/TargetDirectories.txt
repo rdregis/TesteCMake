@@ -1,0 +1,3 @@
+/home/rregis/development/rr/JsonValidate/validate/CMakeFiles/validate.dir
+/home/rregis/development/rr/JsonValidate/validate/CMakeFiles/edit_cache.dir
+/home/rregis/development/rr/JsonValidate/validate/CMakeFiles/rebuild_cache.dir
